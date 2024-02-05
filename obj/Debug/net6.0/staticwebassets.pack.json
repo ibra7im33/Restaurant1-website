@@ -1,0 +1,673 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\img\\card.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\card.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\img\\messages-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\messages-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\img\\messages-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\messages-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\img\\messages-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\messages-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\img\\news-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\news-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\img\\news-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\news-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\img\\news-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\news-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\img\\news-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\news-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\img\\news-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\news-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\img\\not-found.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\not-found.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\img\\profile-img.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\profile-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\img\\slides-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\slides-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\img\\slides-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\slides-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\img\\slides-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\slides-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\vendor\\apexcharts\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\apexcharts\\apexcharts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\vendor\\chart.js\\chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\chart.js\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\vendor\\echarts\\echarts.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\echarts\\echarts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\vendor\\quill\\quill.bubble.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\quill\\quill.bubble.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\vendor\\quill\\quill.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\quill\\quill.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\vendor\\quill\\quill.snow.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\quill\\quill.snow.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\vendor\\remixicon\\remixicon.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\remixicon\\remixicon.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\vendor\\remixicon\\remixicon.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\remixicon\\remixicon.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\vendor\\remixicon\\remixicon.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\remixicon\\remixicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\vendor\\remixicon\\remixicon.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\remixicon\\remixicon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\vendor\\remixicon\\remixicon.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\remixicon\\remixicon.woff"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\vendor\\remixicon\\remixicon.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\remixicon\\remixicon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\vendor\\simple-datatables\\simple-datatables.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\simple-datatables\\simple-datatables.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\vendor\\simple-datatables\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\simple-datatables\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\Admin\\assets\\vendor\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\css\\font\\ytp-regular.html",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\ytp-regular.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\css\\icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\fonts\\fontawesome-webfont3295.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3295.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\fonts\\fontawesome-webfont3295.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3295.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\fonts\\fontawesome-webfont3295.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3295.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\fonts\\fontawesome-webfont3295.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3295.woff"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\fonts\\fontawesome-webfont3295.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3295.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\fonts\\ionicons28b5.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\fonts\\ionicons28b5.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\fonts\\ionicons28b5.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\fonts\\ionicons28b5.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.woff"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\banner\\about-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\banner\\about.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\banner\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\banner\\book-a-table.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\book-a-table.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\banner\\breath.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\breath.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\banner\\count.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\count.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\banner\\deal-bg-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\deal-bg-2.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\banner\\deal-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\deal-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\banner\\deal.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\deal.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\banner\\offer.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\offer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\banner\\popular.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\popular.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\banner\\table.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\table.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\blog\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\blog\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\blog\\blog-comment1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-comment1.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\blog\\blog-comment2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-comment2.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\blog\\blog-dec-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-dec-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\blog\\blog-dec-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-dec-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\blog\\blog-details.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\blog\\sliderbar-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\sliderbar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\blog\\sliderbar-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\sliderbar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\blog\\sliderbar-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\sliderbar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\brand-logo\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\brand-logo\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\brand-logo\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\brand-logo\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\brand-logo\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\gallery\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\gallery\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\gallery\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\gallery\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\gallery\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\gallery\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\gallery\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\gallery\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\gallery\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\gallery\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\gallery\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\gallery\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\gallery\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\gallery\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\gallery\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\gallery\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\gallery\\l1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\gallery\\l15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\gallery\\l17.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\gallery\\l2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\gallery\\l3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\gallery\\l4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\gallery\\l5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\gallery\\l6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\gallery\\l7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\gallery\\l8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\gallery\\l9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\l9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\logo\\logo-black.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo-black.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\product\\menu-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\menu-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\product\\menu-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\menu-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\product\\menu-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\menu-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\product\\menu-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\menu-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\product\\menu-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\menu-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\product\\menu-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\menu-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\product\\pro-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\pro-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\product\\pro-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\pro-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\product\\pro-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\pro-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\product\\pro-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\pro-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\slider\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\slider\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\slider\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\slider\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\slider\\video.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\video.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\team\\team-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\team\\tesi-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\tesi-1.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\img\\team\\tesi-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\tesi-2.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\js\\ajax-mail.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ajax-mail.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\js\\popper.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\js\\vendor\\jquery-v1.12.4.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-v1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\assets\\js\\vendor\\modernizr-3.11.7.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr-3.11.7.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Desktop\\Project1\\Restorent\\Restorent\\wwwroot\\images\\bg\\1.html",
+      "PackagePath": "staticwebassets\\images\\bg\\1.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Restorent.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Restorent.props",
+      "PackagePath": "build\\Restorent.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Restorent.props",
+      "PackagePath": "buildMultiTargeting\\Restorent.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Restorent.props",
+      "PackagePath": "buildTransitive\\Restorent.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
